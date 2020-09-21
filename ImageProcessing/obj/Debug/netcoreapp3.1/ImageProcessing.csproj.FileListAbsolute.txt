@@ -1,0 +1,16 @@
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.exe
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.deps.json
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.runtimeconfig.json
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.runtimeconfig.dev.json
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.pdb
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.Form1.resources
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfo.cs
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.pdb
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.genruntimeconfig.cache
+C:\Users\Fujitsu\source\repos\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.Properties.Resources.resources
